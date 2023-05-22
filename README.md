@@ -1,5 +1,7 @@
 # SimpleFogOfWar
+
 必要的项目设置
+
 打开“Support UV From Hit Results”
 
 添加“Fog” Trace Channel
